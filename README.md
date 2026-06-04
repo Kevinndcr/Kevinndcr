@@ -115,8 +115,8 @@
 <h3 align="center">📊 GitHub Stats.</h3>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kevinndcr&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinndcr&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165"/>
+    <img src="https://github-readme-stats-deploy-sigma.vercel.app/api?username=Kevinndcr&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide=stars,issues,contribs&hide_rank=true" height="165"/>
+    <img src="https://github-readme-stats-deploy-sigma.vercel.app/api/top-langs/?username=Kevinndcr&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165"/>
 </div>
 
 <div align="center">
@@ -127,13 +127,11 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/Kevinndcr/Kevinndcr/main/shooting-stars.svg" width="100%"/></p>
 
-<h3 align="center">🐍 Contribution Activity.</h3>
+<h3 align="center">� Contribution Activity.</h3>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Kevinndcr/Kevinndcr/output/github-contribution-grid-snake-dark.svg" width="750" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kevinndcr&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=7ffff4" width="100%"/>
 </p>
-
-<p align="center"><i>Decorative visual representation of my GitHub activity over the past year.</i></p>
 
 <br>
 
@@ -149,12 +147,12 @@
         <img align="center" alt="Kevin | LinkedIn" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
     </a> &nbsp;&nbsp;
     <a href="https://portfolio-56d05.web.app/" target="_blank">
-        <img align="center" alt="Kevin | Portfolio" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
+        <img align="center" alt="Kevin | Portfolio" width="24px" src="https://raw.githubusercontent.com/Kevinndcr/Kevinndcr/main/Logo_KD.webp" />
     </a>
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/Kevinndcr/Kevinndcr/main/shooting-stars.svg" width="100%"/></p>
 
-<p align="center"><strong>"Trust the process."</strong></p>
+<p align="center"><strong>"Trust the process, everything will fine."</strong></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" width="100%"/>
