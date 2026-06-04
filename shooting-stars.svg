@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 90" width="900" height="90" overflow="hidden">
+  <defs>
+    <linearGradient id="edgeFade" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%"   stop-color="#0d1117" stop-opacity="1"/>
+      <stop offset="10%"  stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="90%"  stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="60" fill="#0d1117"/>
+
+  <!-- Static background stars -->
+  <circle cx="22"  cy="10" r="1"   fill="white"   opacity="0.50"/>
+  <circle cx="58"  cy="48" r="0.8" fill="white"   opacity="0.35"/>
+  <circle cx="110" cy="18" r="1.2" fill="white"   opacity="0.45"/>
+  <circle cx="165" cy="52" r="0.7" fill="#58A6FF" opacity="0.40"/>
+  <circle cx="220" cy="28" r="1"   fill="white"   opacity="0.50"/>
+  <circle cx="275" cy="8"  r="0.8" fill="white"   opacity="0.30"/>
+  <circle cx="330" cy="44" r="1.1" fill="white"   opacity="0.45"/>
+  <circle cx="390" cy="16" r="0.7" fill="#58A6FF" opacity="0.35"/>
+  <circle cx="445" cy="55" r="1"   fill="white"   opacity="0.40"/>
+  <circle cx="510" cy="6"  r="0.9" fill="white"   opacity="0.50"/>
+  <circle cx="570" cy="38" r="1.2" fill="white"   opacity="0.40"/>
+  <circle cx="635" cy="14" r="0.7" fill="white"   opacity="0.45"/>
+  <circle cx="690" cy="50" r="1"   fill="#58A6FF" opacity="0.30"/>
+  <circle cx="750" cy="22" r="0.8" fill="white"   opacity="0.50"/>
+  <circle cx="810" cy="46" r="1.1" fill="white"   opacity="0.35"/>
+  <circle cx="860" cy="12" r="0.7" fill="white"   opacity="0.50"/>
+  <circle cx="880" cy="40" r="1"   fill="#58A6FF" opacity="0.40"/>
+  <circle cx="145" cy="35" r="0.6" fill="white"   opacity="0.25"/>
+  <circle cx="490" cy="42" r="0.6" fill="white"   opacity="0.30"/>
+  <circle cx="730" cy="8"  r="0.7" fill="white"   opacity="0.35"/>
+
+  <!-- Shooting Star 1 — white, medium -->
+  <line x1="-55" y1="-18" x2="0" y2="0" stroke="white" stroke-width="1.5" stroke-linecap="round" opacity="0">
+    <animateTransform attributeName="transform" type="translate" from="70 5" to="290 65" dur="3s" begin="0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;0.9;0" keyTimes="0;0.05;0.2;0.85;1" dur="3s" begin="0s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- Shooting Star 2 — white, thin -->
+  <line x1="-45" y1="-15" x2="0" y2="0" stroke="white" stroke-width="1" stroke-linecap="round" opacity="0">
+    <animateTransform attributeName="transform" type="translate" from="200 12" to="410 68" dur="3.5s" begin="1.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;0.9;0" keyTimes="0;0.05;0.2;0.85;1" dur="3.5s" begin="1.8s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- Shooting Star 3 — white, thick -->
+  <line x1="-60" y1="-20" x2="0" y2="0" stroke="white" stroke-width="1.8" stroke-linecap="round" opacity="0">
+    <animateTransform attributeName="transform" type="translate" from="380 3" to="610 63" dur="3.2s" begin="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;0.9;0" keyTimes="0;0.05;0.2;0.85;1" dur="3.2s" begin="3.5s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- Shooting Star 4 — blue accent -->
+  <line x1="-50" y1="-17" x2="0" y2="0" stroke="#a0c8ff" stroke-width="1.3" stroke-linecap="round" opacity="0">
+    <animateTransform attributeName="transform" type="translate" from="560 8" to="800 70" dur="2.8s" begin="5.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;0.9;0" keyTimes="0;0.05;0.2;0.85;1" dur="2.8s" begin="5.2s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- Shooting Star 5 — enters from left -->
+  <line x1="-50" y1="-17" x2="0" y2="0" stroke="white" stroke-width="1.2" stroke-linecap="round" opacity="0">
+    <animateTransform attributeName="transform" type="translate" from="-10 8" to="200 65" dur="2.6s" begin="2.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;0.9;0" keyTimes="0;0.05;0.2;0.85;1" dur="2.6s" begin="2.2s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- Shooting Star 6 — portfolio blue, exits right -->
+  <line x1="-50" y1="-17" x2="0" y2="0" stroke="#58A6FF" stroke-width="1.4" stroke-linecap="round" opacity="0">
+    <animateTransform attributeName="transform" type="translate" from="690 5" to="930 62" dur="2.4s" begin="4.0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;0.9;0" keyTimes="0;0.05;0.2;0.85;1" dur="2.4s" begin="4.0s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- Shooting Star 7 — small thin -->
+  <line x1="-35" y1="-12" x2="0" y2="0" stroke="white" stroke-width="0.8" stroke-linecap="round" opacity="0">
+    <animateTransform attributeName="transform" type="translate" from="310 2" to="520 60" dur="3.8s" begin="6.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;0.9;0" keyTimes="0;0.05;0.2;0.85;1" dur="3.8s" begin="6.8s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- Edge fade overlay (fades stars near left/right edges) -->
+  <rect width="900" height="60" fill="url(#edgeFade)"/>
+
+  <!-- Bottom accent line matching portfolio blue -->
+  <line x1="0" y1="59.5" x2="900" y2="59.5" stroke="#58A6FF" stroke-width="0.5" opacity="0.25"/>
+</svg>
