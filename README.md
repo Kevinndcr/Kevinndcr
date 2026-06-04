@@ -1,29 +1,29 @@
-<h1 align="center">Hi there... 👋</h1>
-<h2 align="center">I'm Kevin Córdoba. 💻</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Kevin%20C%C3%B3rdoba%20Rivera&fontSize=50&fontColor=58A6FF&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=60&descSize=24&descColor=7ffff4&animation=fadeIn" width="100%"/>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Kevinndcr&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=Kevinndcr&color=58A6FF&style=for-the-badge&label=Profile+Views&abbreviated=true" alt="Profile views"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center"><img src="https://raw.githubusercontent.com/Kevinndcr/Kevinndcr/main/shooting-stars.svg" width="100%"/></p>
 
 <h3 align="center">👨‍💼 About me.</h3>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&size=20&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%F0%9F%9A%80;React+%C2%B7+TypeScript+%C2%B7+Electron;Docker+%C2%B7+Linux+%C2%B7+Kali+Linux;Always+building+something+new...">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&size=20&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%F0%9F%9A%80;React+%C2%B7+TypeScript;Docker+%C2%B7+Linux+%C2%B7+Kali+Linux;Always+building+something+new...">
 </p>
 
 <p align="center">
-    🌍 Based in Costa Rica — open to remote &amp; freelance work.<br>
-    🔭 Currently building desktop apps with <strong>Electron + React + TypeScript</strong>.<br>
-    🔐 Passionate about <strong>cybersecurity</strong>, Linux servers and clean code.<br>
-    🌱 Always learning something new.
+  🎓 &nbsp;Full-Stack Developer with a Bachelor's Degree in <strong>Information Technology Engineering</strong>.<br/><br/>
+  ⚡ &nbsp;Experience in <strong>React · TypeScript · JavaScript · Python · React Native</strong>.<br/>
+  🖥️ &nbsp;I build web apps, desktop tools with <strong>Electron</strong>, and deploy on <strong>Linux servers with Docker</strong>.<br/>
+  🛡️ &nbsp;Cybersecurity knowledge — certified by <strong>Cisco</strong> in Networking &amp; Cybersecurity.<br/><br/>
+  🌍 &nbsp;Available for <strong>remote &amp; freelance projects</strong>.
 </p>
 
 <div align="center">
     <p>
         <a href="https://portfolio-56d05.web.app/" target="_blank">
-            <img src="https://img.shields.io/badge/View%20Portfolio-2196F3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+            <img src="https://raw.githubusercontent.com/Kevinndcr/Kevinndcr/main/Logo_KD.webp" height="40" alt="Portfolio" style="border-radius:8px"/>
         </a>
         &nbsp;
         <a href="mailto:kdcordobarivera@gmail.com">
@@ -36,7 +36,9 @@
     </p>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/><br/>
+
+<p align="center"><img src="https://raw.githubusercontent.com/Kevinndcr/Kevinndcr/main/shooting-stars.svg" width="100%"/></p>
 
 <h3 align="center">🚀 Tech Stack.</h3>
 
@@ -100,35 +102,15 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center"><img src="https://raw.githubusercontent.com/Kevinndcr/Kevinndcr/main/shooting-stars.svg" width="100%"/></p>
 
 <h3 align="center">💼 Featured Projects.</h3>
 
-<ul>
-    <li>
-        <a href="https://portfolio-56d05.web.app/" target="_blank"><strong>Personal Portfolio</strong></a><br>
-        React · TypeScript · Firebase · Framer Motion · i18next — Multilanguage portfolio (ES/EN) with dark/light mode, particle animations and anti-spam contact form.
-    </li>
-    <br>
-    <li>
-        <a href="#" target="_blank"><strong>CVG Alunasa — Corporate Website</strong></a><br>
-        JavaScript · Bootstrap · CSS · SEO — Corporate site with dynamic product catalog, lazy-load gallery, lightbox modal and mobile-first responsive design. 90+ Lighthouse score.
-    </li>
-    <br>
-    <li>
-        <a href="#" target="_blank"><strong>BJG Ingenieros — Inventory Desktop App</strong></a><br>
-        Electron · React · TypeScript · SQLite · Docker — Desktop application for IT equipment inventory management, deployed on Linux with Docker.
-    </li>
-    <br>
-    <li>
-        <a href="#" target="_blank"><strong>Historia Costarricense — Interactive Web App</strong></a><br>
-        React · TypeScript · CSS — Interactive educational application about Costa Rican history with dynamic content and smooth navigation.
-    </li>
-</ul>
+<p align="center"><em>🚧 Project repos coming soon — check my <a href="https://portfolio-56d05.web.app/" target="_blank">portfolio</a> in the meantime.</em></p>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center"><img src="https://raw.githubusercontent.com/Kevinndcr/Kevinndcr/main/shooting-stars.svg" width="100%"/></p>
 
 <h3 align="center">📊 GitHub Stats.</h3>
 
@@ -143,7 +125,7 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center"><img src="https://raw.githubusercontent.com/Kevinndcr/Kevinndcr/main/shooting-stars.svg" width="100%"/></p>
 
 <h3 align="center">🐍 Contribution Activity.</h3>
 
@@ -155,7 +137,7 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center"><img src="https://raw.githubusercontent.com/Kevinndcr/Kevinndcr/main/shooting-stars.svg" width="100%"/></p>
 
 <h3 align="center">📬 Contact.</h3>
 
@@ -171,6 +153,8 @@
     </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center"><img src="https://raw.githubusercontent.com/Kevinndcr/Kevinndcr/main/shooting-stars.svg" width="100%"/></p>
 
-<p align="center"><strong>"La disciplina supera al talento cuando el talento no es disciplinado."</strong></p>
+<p align="center"><strong>"Trust the process."</strong></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" width="100%"/>
