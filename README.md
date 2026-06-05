@@ -151,7 +151,6 @@
     </a>
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Kevinndcr/Kevinndcr/main/shooting-stars.svg" width="100%"/></p>
 
 <p align="center"><strong>"Trust the process, everything will fine."</strong></p>
 
